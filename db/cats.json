@@ -1,0 +1,37 @@
+[
+    {
+      "id": "c1",
+      "name": "Whiskers",
+      "age": 3,
+      "characteristics": ["playful", "curious", "affectionate"],
+      "image": "https://images.unsplash.com/photo-1592194996308-7b43878e84a6?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "c2",
+      "name": "Mittens",
+      "age": 2,
+      "characteristics": ["shy", "gentle", "intelligent"],
+      "image": "https://images.unsplash.com/photo-1574231164645-d6f0e8553590?q=80&w=1704&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "c3",
+      "name": "Shadow",
+      "age": 4,
+      "characteristics": ["independent", "quiet", "observant"],
+      "image": "https://images.unsplash.com/photo-1615111784767-4d7c527f32a1?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "c4",
+      "name": "Tiger",
+      "age": 1,
+      "characteristics": ["energetic", "adventurous", "playful"],
+      "image": "https://images.unsplash.com/photo-1513245543132-31f507417b26?q=80&w=1635&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "c5",
+      "name": "Bella",
+      "age": 5,
+      "characteristics": ["loyal", "calm", "friendly"],
+      "image": "https://images.unsplash.com/photo-1566765790386-c43812572bc2?q=80&w=1635&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    }
+  ]
